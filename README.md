@@ -10,7 +10,7 @@ Esta dividido en 4 días y a su vez cada día en practicas. Cada práctica tiene
 ### Día 2.- NPM y paquetes NPM.
 
 
-### Día 3.- Dia 3 Introducción a monngoDB y Mongoose.
+### Día 3.- Dia 3 Introducción a mongoDB y Mongoose.
 
 
 ### Día 4.- Express JS y la construcción de un API REST.
