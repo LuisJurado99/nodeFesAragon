@@ -15,6 +15,7 @@
   "author": "jeshc",
   "license": "ISC",
   "dependencies": {
-    "http": "0.0.0"
+    "http": "0.0.0",
+    "request": "*"
   }
 }
